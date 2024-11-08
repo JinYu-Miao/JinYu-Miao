@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Jinyu Miao]!
 
 **`Software Developer | Open Source Enthusiast | Lifelong Learner`**
 
@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 ## 🌟 About Me
 
-- 💻 I'm currently working on [your current project or focus].
-- 🎓 I have a background in [your degree or field of study].
+- 💻 I'm currently Studying on [NJIT].
 - 🌱 I’m currently learning **[new technologies or frameworks]**.
 - 💬 Ask me about **Python**, **Django**, **JavaScript**, **Machine Learning**, and **Data Analysis**.
 - 🌐 I enjoy contributing to open-source projects and learning from the community.
