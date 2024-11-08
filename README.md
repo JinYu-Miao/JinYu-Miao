@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="yourusername's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JinYu-Miao&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinYu-Miao&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
